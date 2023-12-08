@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning ...Exploring the ins and outs of Next.js for building powerful and efficient React applications.
 - 👯 I’m looking - To collaborate on open source projects. <br> <br>
 
-💻 My Skills
+### 💻 My Skills
 ****
 <div align="center"> <br>
 
@@ -28,5 +28,9 @@
 [![Node.js](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br>
+
+[![MongoDB](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
 </div>
