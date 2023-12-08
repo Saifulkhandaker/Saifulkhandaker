@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=dark)](https://git.io/streak-stats) <br>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifulkhandaker&theme=dark)
 </div>
 
