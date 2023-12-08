@@ -6,20 +6,22 @@
 ### Hi there 👋 I Am Saiful khandaker
 </div> <br>
 
+### 👀 Current overview
+*****
+- 🔭 I’m currently working on ...Building dynamic and interactive web applications using React.js.
+- 🌱 I’m currently learning ...Exploring the ins and outs of Next.js for building powerful and efficient React applications.
+- 👯 I’m looking - To collaborate on open source projects. <br> <br>
+
 ### 📈 Current Stats
 *****
 <br>
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=whatsapp-dark2)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=dark)](https://git.io/streak-stats)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifulkhandaker&theme=dark)
 </div>
 
-### 👀 Current overview
-*****
-- 🔭 I’m currently working on ...Building dynamic and interactive web applications using React.js.
-- 🌱 I’m currently learning ...Exploring the ins and outs of Next.js for building powerful and efficient React applications.
-- 👯 I’m looking - To collaborate on open source projects. <br> <br>
 
 ### 💻 My Skills
 ****
