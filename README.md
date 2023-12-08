@@ -4,9 +4,16 @@
 <div align="center">
 
 ### Hi there 👋 I Am Saiful khandaker
-</div>
+</div> <br>
 
+### 📈 Current Stats
 *****
+<br>
+
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=whatsapp-dark2)](https://git.io/streak-stats)
+</div>
 
 ### 👀 Current overview
 *****
