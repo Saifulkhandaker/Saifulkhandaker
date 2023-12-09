@@ -12,14 +12,25 @@
 - 🌱 I’m currently learning ...Exploring the ins and outs of Next.js for building powerful and efficient React applications.
 - 👯 I’m looking - To collaborate on open source projects. <br> <br>
 
-### 📈 Current Stats
+### 📈 Github Stats
 *****
 <br>
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=dark)](https://git.io/streak-stats) <br>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifulkhandaker&theme=dark)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=dark)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saifulkhandaker&theme=dark" alt="GitHub Stats" width="250">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saifulkhandaker&theme=dark&utcOffset=8" alt="Productive Time" width="250">
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifulkhandaker&theme=dark)
 </div>
 
 
