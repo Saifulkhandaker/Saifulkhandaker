@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/qxgZL7Y/GIthub-cover.png" alt="Coding gif" title="Coding gif" >
+  <img src="https://i.ibb.co/brZvyZd/GIthub-cover.png" alt="Coding gif" title="Coding gif" >
 </div>
 <div align="center">
 
