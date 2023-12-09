@@ -23,8 +23,8 @@
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saifulkhandaker&theme=dark" alt="GitHub Stats" width="250">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saifulkhandaker&theme=dark&utcOffset=8" alt="Productive Time" width="250">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saifulkhandaker&theme=dark" alt="GitHub Stats" width="348">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saifulkhandaker&theme=dark&utcOffset=8" alt="Productive Time" width="348">
 
 </div>
 
@@ -42,15 +42,13 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 <br>
 
 [![React](https://skillicons.dev/icons?i=expressjs)](https://skillicons.dev)
 [![Node.js](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-<br>
-
-[![MongoDB](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
 </div>
