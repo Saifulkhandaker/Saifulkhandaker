@@ -62,17 +62,14 @@ I am passionate about creating user-friendly and visually appealing websites. I 
 - This website has an intuitive and user-friendly interface that allows visitors to easily browse available rooms, view details, and make bookings.
 - Users have the flexibility to display different rooms in customizable cards, allowing them to arrange and view content as they prefer.
 - User can remove the booking room from the my booking page if user want.And the user can also update the booking date. <br>
-<br>
 
 ### 🪐Clima Tech-Hunt ( Tech Review Website ) <br>
 [Clima Tech-Hunt](https://tech-product-51c1d.web.app/) <br>
 - Users can seamlessly interact with the website by upvoting products and accessing detailed information by clicking on the product name within the product card.
 -  This platform offers a personalized user dashboard where individuals can view their profiles, add new products, and manage their listed products.
 - The admin dashboard provides a comprehensive overview of the platform's performance through dynamic pie charts. <br>
-<br>
 
 ### 🛒SaleHub ( Fashion & Clothing Website ) <br>
 [SaleHub](https://sale-hub-fea0c.web.app/) <br>
 - This website is based on selling products.
 - This website has an intuitive and user-friendly interface that allows visitors to easily browse and add product to their cart and also delete from cart if user wanted to delete. <br>
-<br>
