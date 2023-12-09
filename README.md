@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://i.ibb.co/QCgFnbQ/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67.gif" alt="Coding gif" title="Coding gif" width="200">
+  <img src="https://i.ibb.co/qxgZL7Y/GIthub-cover.png" alt="Coding gif" title="Coding gif" >
 </div>
 <div align="center">
 
-# Hi there 👋 I Am Saiful khandaker
+#
 
 *A passionate front-end developer from Bangladesh*
 
-I am passionate about creating user-friendly and visually appealing websites. I have experience using a variety of technologies and frameworks, including CSS components, JavaScript, React and MongoDB to create responsive and dynamic web experiences. I am a team player and enjoy collaborating with designers and back-end developers to create seamless and effective user experiences.
+As a front-end developer, I am passionate about creating user-friendly and visually appealing websites. I have experience using a variety of technologies and frameworks, including CSS components, JavaScript, React and MongoDB to create responsive and dynamic web experiences. I am a team player and enjoy collaborating with designers and back-end developers to create seamless and effective user experiences.
 </div>
 
 # 👀 Current overview
@@ -22,7 +22,7 @@ I am passionate about creating user-friendly and visually appealing websites. I 
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=dark)](https://git.io/streak-stats)
+  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=dark)](https://git.io/streak-stats) -->
 </div>
 
 <div align="center">
