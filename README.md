@@ -4,7 +4,11 @@
 <div align="center">
 
 ### Hi there 👋 I Am Saiful khandaker
-</div> <br>
+***
+**A passionate front-end developer from Bangladesh**
+
+I am passionate about creating user-friendly and visually appealing websites. I have experience using a variety of technologies and frameworks, including CSS components, JavaScript, React and MongoDB to create responsive and dynamic web experiences. I am a team player and enjoy collaborating with designers and back-end developers to create seamless and effective user experiences.
+</div>
 
 ### 👀 Current overview
 *****
