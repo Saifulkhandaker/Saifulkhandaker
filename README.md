@@ -61,7 +61,7 @@ I am passionate about creating user-friendly and visually appealing websites. I 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saiful-khandaker67/"><img src="https://i.ibb.co/grT3k50/1614895141102.png" alt="LinkedIn" width="100" height="50"></a>
-<a href="https://www.instagram.com/saiful_khandaker.67/?fbclid=IwAR0QflCKYt9o5-WagaTGzZKQuTyCL0ULw88HlzjxogSPzJAeMZCQefktKFY"><img src="https://i.ibb.co/Jp891vf/Instagram-name-logo-transparent-PNG.png" alt="Instagram" width="100" height="50"></a>
+<a href="https://www.instagram.com/saiful_khandaker.67/"><img src="https://i.ibb.co/Jp891vf/Instagram-name-logo-transparent-PNG.png" alt="Instagram" width="100" height="50"></a>
 
 </div>
 
