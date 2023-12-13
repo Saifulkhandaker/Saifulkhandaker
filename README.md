@@ -5,9 +5,10 @@
 
 #
 
-*A passionate front-end developer from Bangladesh*
+_A passionate front-end developer from Bangladesh_
 
 As a front-end developer, I am passionate about creating user-friendly and visually appealing websites. I have experience using a variety of technologies and frameworks, including CSS components, JavaScript, React and MongoDB to create responsive and dynamic web experiences. I am a team player and enjoy collaborating with designers and back-end developers to create seamless and effective user experiences.
+
 </div>
 
 # 👀 Current overview
@@ -22,7 +23,8 @@ As a front-end developer, I am passionate about creating user-friendly and visua
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=dark)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
@@ -35,6 +37,7 @@ As a front-end developer, I am passionate about creating user-friendly and visua
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saifulkhandaker&theme=dark)
+
 </div>
 
 # 🎯 My Skills
@@ -65,21 +68,27 @@ As a front-end developer, I am passionate about creating user-friendly and visua
 
 </div>
 
-
 # 💻 Latest Projects
+
 ### 🏠Hoexr_Hotel ( Hotel Booking Website ) <br>
+
 [Hoexr_Live](https://hotel-boo-c51b7.web.app/) <br>
+
 - This website has an intuitive and user-friendly interface that allows visitors to easily browse available rooms, view details, and make bookings.
 - Users have the flexibility to display different rooms in customizable cards, allowing them to arrange and view content as they prefer.
 - User can remove the booking room from the my booking page if user want.And the user can also update the booking date. <br>
 
 ### 🪐Clima Tech-Hunt ( Tech Review Website ) <br>
-[Clima Tech-Hunt](https://tech-product-51c1d.web.app/) <br>
+
+[Clima Tech-Hunt](https://tech-product.netlify.app/) <br>
+
 - Users can seamlessly interact with the website by upvoting products and accessing detailed information by clicking on the product name within the product card.
--  This platform offers a personalized user dashboard where individuals can view their profiles, add new products, and manage their listed products.
+- This platform offers a personalized user dashboard where individuals can view their profiles, add new products, and manage their listed products.
 - The admin dashboard provides a comprehensive overview of the platform's performance through dynamic pie charts. <br>
 
 ### 🛒SaleHub ( Fashion & Clothing Website ) <br>
+
 [SaleHub](https://sale-hub-fea0c.web.app/) <br>
+
 - This website is based on selling products.
 - This website has an intuitive and user-friendly interface that allows visitors to easily browse and add product to their cart and also delete from cart if user wanted to delete. <br>
