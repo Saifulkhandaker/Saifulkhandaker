@@ -22,7 +22,7 @@ As a front-end developer, I am passionate about creating user-friendly and visua
 
 <div align="center">
 
-  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=dark)](https://git.io/streak-stats) -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saifulkhandaker&theme=dark)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
